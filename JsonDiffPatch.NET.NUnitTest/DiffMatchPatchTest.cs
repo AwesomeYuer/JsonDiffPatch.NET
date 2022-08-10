@@ -19,14 +19,12 @@
  * http://code.google.com/p/google-diff-match-patch/
  */
 
-using DiffMatchPatch;
-using System.Collections.Generic;
-using System;
-using System.Text;
-using NUnit.Framework;
+namespace nicTest
+{
+    using Google.DiffMatchPatch;
+    using System.Text;
 
-namespace nicTest {
-  [TestFixture()]
+    [TestFixture()]
   public class diff_match_patchTest : diff_match_patch {
     [Test()]
     public void diff_commonPrefixTest() {

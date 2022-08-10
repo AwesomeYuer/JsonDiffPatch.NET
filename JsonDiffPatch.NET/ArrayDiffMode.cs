@@ -1,4 +1,4 @@
-﻿namespace JsonDiffPatchDotNet
+﻿namespace Microshaoft
 {
 	public enum ArrayDiffMode
 	{

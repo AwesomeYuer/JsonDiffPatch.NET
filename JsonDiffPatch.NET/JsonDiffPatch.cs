@@ -1,14 +1,9 @@
-using System;
-using System.Collections.Generic;
-using System.Globalization;
-using System.IO;
-using System.Linq;
-using DiffMatchPatch;
+using Google.DiffMatchPatch;
 using Newtonsoft.Json.Linq;
 
-namespace JsonDiffPatchDotNet
+namespace Microshaoft
 {
-	public class JsonDiffPatch
+    public class JsonDiffPatch
 	{
 		private readonly Options _options;
 

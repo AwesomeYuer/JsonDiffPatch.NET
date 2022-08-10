@@ -1,4 +1,4 @@
-namespace JsonDiffPatchDotNet.Formatters.JsonPatch
+namespace Microshaoft.Formatters.JsonPatch
 {
 	public static class OperationTypes
 	{

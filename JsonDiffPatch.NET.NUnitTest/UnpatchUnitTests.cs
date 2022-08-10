@@ -1,10 +1,9 @@
-﻿using System.Linq;
-using Newtonsoft.Json.Linq;
-using NUnit.Framework;
-
-namespace JsonDiffPatchDotNet.UnitTests
+﻿namespace Microshaoft.UnitTests
 {
-	[TestFixture]
+    using Newtonsoft.Json.Linq;
+    using NUnit.Framework;
+    using System.Linq;
+    [TestFixture]
 	public class UnpatchUnitTests
 	{
 		[Test]

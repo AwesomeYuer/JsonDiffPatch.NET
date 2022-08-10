@@ -1,11 +1,10 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using Newtonsoft.Json.Linq;
-
-namespace JsonDiffPatchDotNet.Formatters.JsonPatch
+namespace Microshaoft.Formatters.JsonPatch
 {
-	public class JsonDeltaFormatter : BaseDeltaFormatter<JsonFormatContext, IList<Operation>>
+    using Newtonsoft.Json.Linq;
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    public class JsonDeltaFormatter : BaseDeltaFormatter<JsonFormatContext, IList<Operation>>
 	{
 		protected override bool IncludeMoveDestinations => true;
 

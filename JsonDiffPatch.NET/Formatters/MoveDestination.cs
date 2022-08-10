@@ -1,7 +1,6 @@
-using Newtonsoft.Json.Linq;
-
-namespace JsonDiffPatchDotNet.Formatters
+namespace Microshaoft.Formatters
 {
+	using Newtonsoft.Json.Linq;
 	public class MoveDestination
 	{
 		public MoveDestination(string key, JToken value)

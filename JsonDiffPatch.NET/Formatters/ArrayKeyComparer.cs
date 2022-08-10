@@ -1,6 +1,4 @@
-using System.Collections.Generic;
-
-namespace JsonDiffPatchDotNet.Formatters
+namespace Microshaoft.Formatters
 {
 	internal class ArrayKeyComparer : IComparer<string>
 	{

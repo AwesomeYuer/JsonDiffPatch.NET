@@ -1,7 +1,4 @@
-using System.Collections.Generic;
-using System.Linq;
-
-namespace JsonDiffPatchDotNet.Formatters.JsonPatch
+namespace Microshaoft.Formatters.JsonPatch
 {
 	public class JsonFormatContext : IFormatContext<IList<Operation>>
 	{

@@ -1,4 +1,4 @@
-namespace JsonDiffPatchDotNet.Formatters
+namespace Microshaoft.Formatters
 {
 	public interface IFormatContext<out TResult>
 	{

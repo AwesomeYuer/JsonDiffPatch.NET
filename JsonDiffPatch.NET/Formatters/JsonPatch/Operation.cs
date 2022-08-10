@@ -1,7 +1,6 @@
-using Newtonsoft.Json;
-
-namespace JsonDiffPatchDotNet.Formatters.JsonPatch
+namespace Microshaoft.Formatters.JsonPatch
 {
+	using Newtonsoft.Json;
 	public class Operation
 	{
 		public Operation() { }

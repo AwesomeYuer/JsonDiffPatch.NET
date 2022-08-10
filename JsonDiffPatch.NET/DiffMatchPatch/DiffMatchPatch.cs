@@ -19,7 +19,7 @@
  * http://code.google.com/p/google-diff-match-patch/
  */
 
-namespace DiffMatchPatch
+namespace Google.DiffMatchPatch
 {
 	using System.Net;
 	using System.Text;

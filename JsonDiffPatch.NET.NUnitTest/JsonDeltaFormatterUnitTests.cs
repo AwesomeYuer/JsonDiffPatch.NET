@@ -1,9 +1,8 @@
-using JsonDiffPatchDotNet.Formatters.JsonPatch;
-using Newtonsoft.Json.Linq;
-using NUnit.Framework;
-
-namespace JsonDiffPatchDotNet.UnitTests
+namespace Microshaoft.UnitTests
 {
+	using Microshaoft.Formatters.JsonPatch;
+	using Newtonsoft.Json.Linq;
+	using NUnit.Framework;
 	[TestFixture]
 	public class JsonDeltaFormatterUnitTests
 	{

@@ -1,10 +1,6 @@
-using System.Collections.Generic;
-using System.Linq;
-using Newtonsoft.Json.Linq;
-using NUnit.Framework;
-
-namespace JsonDiffPatchDotNet.UnitTests
+namespace Microshaoft.UnitTests
 {
+	using Newtonsoft.Json.Linq;
 	[TestFixture]
 	public class PatchUnitTests
 	{
