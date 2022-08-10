@@ -1,4 +1,4 @@
-﻿namespace Microshaoft
+﻿namespace Microshaoft.Json
 {
 	enum DiffOperation
 	{

@@ -1,4 +1,4 @@
-namespace Microshaoft.Formatters.JsonPatch
+namespace Microshaoft.Json.Formatters.JsonPatch
 {
 	public static class OperationTypes
 	{

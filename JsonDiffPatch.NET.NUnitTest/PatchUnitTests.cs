@@ -1,4 +1,4 @@
-namespace Microshaoft.UnitTests
+namespace Microshaoft.Json.UnitTests
 {
 	using Newtonsoft.Json.Linq;
 	[TestFixture]

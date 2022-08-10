@@ -1,4 +1,4 @@
-namespace Microshaoft.Formatters.JsonPatch
+namespace Microshaoft.Json.Formatters.JsonPatch
 {
 	using Newtonsoft.Json;
 	public class Operation

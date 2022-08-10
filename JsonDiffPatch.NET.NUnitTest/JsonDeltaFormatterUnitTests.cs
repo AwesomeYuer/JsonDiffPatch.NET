@@ -1,6 +1,6 @@
-namespace Microshaoft.UnitTests
+namespace Microshaoft.Json.UnitTests
 {
-	using Microshaoft.Formatters.JsonPatch;
+	using Microshaoft.Json.Formatters.JsonPatch;
 	using Newtonsoft.Json.Linq;
 	using NUnit.Framework;
 	[TestFixture]

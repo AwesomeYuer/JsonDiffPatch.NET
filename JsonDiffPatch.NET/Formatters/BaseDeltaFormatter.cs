@@ -1,4 +1,4 @@
-namespace Microshaoft.Formatters
+namespace Microshaoft.Json.Formatters
 {
 	using System.Collections.Generic;
 	using System.Linq;

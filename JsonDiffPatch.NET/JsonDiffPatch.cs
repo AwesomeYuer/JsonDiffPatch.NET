@@ -1,9 +1,8 @@
-using Google.DiffMatchPatch;
-using Newtonsoft.Json.Linq;
-
-namespace Microshaoft
+namespace Microshaoft.Json
 {
-    public class JsonDiffPatch
+	using Google.DiffMatchPatch;
+	using Newtonsoft.Json.Linq;
+	public class JsonDiffPatch
 	{
 		private readonly Options _options;
 

@@ -1,4 +1,4 @@
-namespace Microshaoft.Formatters
+namespace Microshaoft.Json.Formatters
 {
 	internal class ArrayKeyComparer : IComparer<string>
 	{

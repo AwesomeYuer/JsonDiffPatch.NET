@@ -1,4 +1,4 @@
-namespace Microshaoft.Formatters
+namespace Microshaoft.Json.Formatters
 {
 	using Newtonsoft.Json.Linq;
 	public class MoveDestination

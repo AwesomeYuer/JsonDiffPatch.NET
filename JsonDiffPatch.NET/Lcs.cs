@@ -1,9 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using Newtonsoft.Json.Linq;
-
-namespace Microshaoft
+﻿namespace Microshaoft.Json
 {
+	using System;
+	using System.Collections.Generic;
+	using Newtonsoft.Json.Linq;
 	internal class Lcs
 	{
 		internal List<JToken> Sequence { get; set; }

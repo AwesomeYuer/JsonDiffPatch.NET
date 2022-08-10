@@ -1,9 +1,8 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
-
-namespace Microshaoft
+namespace Microshaoft.Json
 {
+	using System;
+	using System.Collections;
+	using System.Collections.Generic;
 	public sealed class Options
 	{		
 		public Options()

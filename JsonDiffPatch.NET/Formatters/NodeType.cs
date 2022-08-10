@@ -1,4 +1,4 @@
-namespace Microshaoft.Formatters
+namespace Microshaoft.Json.Formatters
 {
 	public enum NodeType
 	{
