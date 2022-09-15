@@ -10,7 +10,7 @@ https://github.com/google/diff-match-patch
 
 https://github.com/JamesNK/Newtonsoft.Json
 
-```
+```c#
 // See https://aka.ms/new-console-template for more information
 using Microshaoft.Json;
 using Newtonsoft.Json.Linq;
