@@ -2,7 +2,7 @@
 
 ## Thanks for Open Source
 
-https://github.com/wbish/jsondiffpatch.net upgrade to .NET 6.0 at here
+https://github.com/wbish/jsondiffpatch.net (upgrade to .NET 6.0 at here)
 
 https://github.com/benjamine/jsondiffpatch
 
