@@ -1,17 +1,4 @@
-# JsonDiffPatch.NET 6.0
-
-Thanks for Open Source
-
-https://github.com/wbish/jsondiffpatch.net
-
-https://github.com/benjamine/jsondiffpatch
-
-https://github.com/google/diff-match-patch
-
-https://github.com/JamesNK/Newtonsoft.Json
-
-```
-// See https://aka.ms/new-console-template for more information
+﻿// See https://aka.ms/new-console-template for more information
 using Microshaoft.Json;
 using Newtonsoft.Json.Linq;
 
@@ -46,5 +33,3 @@ if (patch != null)
     }
 }
 Console.ReadLine();
-
-```
