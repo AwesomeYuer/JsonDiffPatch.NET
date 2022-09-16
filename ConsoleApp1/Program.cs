@@ -12,7 +12,7 @@ var jdp = new JsonDiffPatch
                 );
 var left = JToken.Parse (@"{""F1"": [1,2,{""p"":false},4]}");
 left = JToken.Parse(@"{""F3"":1}");
-var right = JToken.Parse(@"{""F2"": [1,2,{""p"":true},4]}");
+var right = JToken.Parse(@"{""F2"": [1,    2,{""p"":true},4]}");
 var patch = jdp.Diff(left, right);
 //patch = jdp.Diff(right, left);
 
