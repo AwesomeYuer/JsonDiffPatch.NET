@@ -25,7 +25,6 @@ Diff two json objects
   // {
   //     "key": [false, true]
   // }
-
 ```
 
 ## Patch
@@ -101,5 +100,4 @@ if (patch != null)
     }
 }
 Console.ReadLine();
-
 ```
