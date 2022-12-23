@@ -30,6 +30,6 @@ namespace Microshaoft.Json.Formatters.JsonPatch
 		public string From { get; set; } = string.Empty;
 
 		[JsonProperty("value")]
-		public object Value { get; set; } = string.Empty;
+		public object Value { get; set; } = null!;
 	}
 }
